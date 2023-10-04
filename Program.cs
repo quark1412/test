@@ -4,7 +4,7 @@ public class Lab1_1
 {
 	public static void Main()
 	{
-		# aoql
+		# asd
 		Console.WriteLine("Ahihi do ngoc");
 	}
 }
